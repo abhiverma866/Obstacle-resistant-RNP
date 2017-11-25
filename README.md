@@ -30,4 +30,5 @@ ieeexplore.ieee.org/document/7938976/
 
 Relay Node Placement in Constrained Environment
 In book: Communication and Computing Systems, Chapter: Communication and Computing Systems, Publisher: Taylor & Francis Group, 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742 CRC Press 2016, Editors: B.M.K. Prasad Krishna Kant Singh Neelam Ruhil Karan Singh Richard O’Kennedy, pp.417-420 
+
 https://books.google.co.in/books?id=EPYgDgAAQBAJ&pg=PA417&lpg=PA417&dq=relay+node+placement+in+constrained+environment+taylor+and+francis&source=bl&ots=J-aesld4MP&sig=R-Wyje599SgnjnEH_2RXn1pLDg0&hl=en&sa=X&ved=0ahUKEwiIqbrHitrXAhUJuI8KHVX_BsUQ6AEIMTAB#v=onepage&q=relay%20node%20placement%20in%20constrained%20environment%20taylor%20and%20francis&f=false
